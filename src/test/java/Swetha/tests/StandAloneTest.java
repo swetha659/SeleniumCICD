@@ -21,6 +21,7 @@ public class StandAloneTest {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 				// TODO Auto-generated method stub
+				//new comments are added to check CICD
 				String productName ="ZARA COAT 3";
 				ChromeOptions options = new ChromeOptions();
 				options.addArguments("--remote-allow-origins=*");
